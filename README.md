@@ -14,8 +14,6 @@ Or from this checkout:
 omarchy theme install ~/dev/omarchy-eighties-black-theme
 ```
 
-`omarchy theme install` names the theme from the repo (`omarchy-eighties-black-theme` → `eighties-black`) and regenerates terminals, Hyprland, and Neovim (aether) from `colors.toml`.
-
 ## Palette
 
 | | hex |
@@ -26,9 +24,6 @@ omarchy theme install ~/dev/omarchy-eighties-black-theme
 | red / yellow / green / cyan / blue / magenta | `#ee4549` `#c86131` `#59b259` `#37afaf` `#3773af` `#b259b2` |
 | bright | `#f2777a` `#ffcc66` `#99cc99` `#66cccc` `#6699cc` `#cc99cc` |
 | muted / bright white | `#888888` `#f2f0ec` |
+| ANSI 0 | `#111111` |
 
-## Optional Neovim colorscheme
-
-`omarchy theme install` does not keep a theme's `neovim.lua`. Generated aether uses this `colors.toml`.
-
-For the hand-tuned Vim/Neovim scheme (same palette, extra highlight groups), copy `extras/eighties-black.lua` to `~/.config/nvim/colors/eighties-black.lua`.
+Ghostty, Alacritty, Kitty, and Foot map ANSI 0 to `#111111` (not the background) and invert cursor/selection from the cell, same as the eighties-black configs in `~/dev/dotfiles`.

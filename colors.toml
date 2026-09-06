@@ -1,7 +1,7 @@
 # Eighties Black — Chris Kempson Eighties on true black.
-# Terminal ANSI 0 is #111111 in the original palette; Omarchy maps color0 to
-# background, so terminals get #000000 for both. The lifted black is kept as
-# lighter_background / selection.
+# Terminal ANSI 0 is #111111. Stock Ghostty templates map palette 0 to
+# background; lighter_background holds the lifted black for a custom
+# ~/.config/omarchy/themed/ghostty.conf.tpl.
 
 mode = "dark"
 
