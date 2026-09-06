@@ -1,0 +1,36 @@
+# Eighties Black — Chris Kempson Eighties on true black.
+# Terminal ANSI 0 is #111111 in the original palette; Omarchy maps color0 to
+# background, so terminals get #000000 for both. The lifted black is kept as
+# lighter_background / selection.
+
+mode = "dark"
+
+accent = "#6699cc"
+selection = "#111111"
+muted = "#888888"
+
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#111111"
+
+foreground = "#cccccc"
+dark_foreground = "#888888"
+light_foreground = "#cccccc"
+bright_foreground = "#f2f0ec"
+
+red = "#ee4549"
+yellow = "#c86131"
+orange = "#f99157"
+green = "#59b259"
+cyan = "#37afaf"
+blue = "#3773af"
+magenta = "#b259b2"
+brown = "#7a3d28"
+
+bright_red = "#f2777a"
+bright_yellow = "#ffcc66"
+bright_green = "#99cc99"
+bright_cyan = "#66cccc"
+bright_blue = "#6699cc"
+bright_magenta = "#cc99cc"
