@@ -26,4 +26,4 @@ omarchy theme install ~/dev/omarchy-eighties-black-theme
 | muted / bright white | `#888888` `#f2f0ec` |
 | ANSI 0 | `#111111` |
 
-Ghostty, Alacritty, Kitty, and Foot map ANSI 0 to `#111111` (not the background) and invert cursor/selection from the cell, same as the eighties-black configs in `~/dev/dotfiles`.
+Ghostty, Alacritty, Kitty, and Foot map ANSI 0 to `#111111` (not the background) and invert cursor/selection from the cell.
