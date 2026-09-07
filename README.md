@@ -10,12 +10,6 @@ Omarchy theme. [Chris Kempson](http://chriskempson.com)'s Eighties palette on tr
 omarchy theme install https://github.com/j-c-m/omarchy-eighties-black-theme.git
 ```
 
-Or from this checkout:
-
-```bash
-omarchy theme install ~/dev/omarchy-eighties-black-theme
-```
-
 ## Palette
 
 | | hex |
