@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="888" height="386" viewBox="0 0 888 386" role="img" aria-label="Eighties Black palette">
+  <rect width="888" height="386" rx="10" fill="#000000"/>
+  <rect x="0.5" y="0.5" width="887" height="385" rx="10" fill="none" stroke="#222222"/>
+  <text x="28" y="57.0" fill="#888888" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12">Surfaces</text>
+  <rect x="106.00" y="24" width="115.67" height="58" rx="6" fill="#000000" stroke="#3a3a3a" stroke-width="1"/>
+  <text x="163.83" y="102" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">background</text>
+  <text x="163.83" y="118" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#000000</text>
+  <rect x="233.67" y="24" width="115.67" height="58" rx="6" fill="#cccccc"/>
+  <text x="291.50" y="102" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">foreground</text>
+  <text x="291.50" y="118" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#cccccc</text>
+  <rect x="361.33" y="24" width="115.67" height="58" rx="6" fill="#6699cc"/>
+  <text x="419.17" y="102" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">accent</text>
+  <text x="419.17" y="118" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#6699cc</text>
+  <rect x="489.00" y="24" width="115.67" height="58" rx="6" fill="#111111" stroke="#3a3a3a" stroke-width="1"/>
+  <text x="546.83" y="102" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">ANSI 0</text>
+  <text x="546.83" y="118" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#111111</text>
+  <rect x="616.67" y="24" width="115.67" height="58" rx="6" fill="#888888"/>
+  <text x="674.50" y="102" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">muted</text>
+  <text x="674.50" y="118" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#888888</text>
+  <rect x="744.33" y="24" width="115.67" height="58" rx="6" fill="#f2f0ec"/>
+  <text x="802.17" y="102" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">bright white</text>
+  <text x="802.17" y="118" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#f2f0ec</text>
+  <text x="28" y="177.0" fill="#888888" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12">Normal</text>
+  <rect x="106.00" y="144" width="115.67" height="58" rx="6" fill="#ee4549"/>
+  <text x="163.83" y="222" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">red</text>
+  <text x="163.83" y="238" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#ee4549</text>
+  <rect x="233.67" y="144" width="115.67" height="58" rx="6" fill="#c86131"/>
+  <text x="291.50" y="222" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">yellow</text>
+  <text x="291.50" y="238" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#c86131</text>
+  <rect x="361.33" y="144" width="115.67" height="58" rx="6" fill="#59b259"/>
+  <text x="419.17" y="222" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">green</text>
+  <text x="419.17" y="238" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#59b259</text>
+  <rect x="489.00" y="144" width="115.67" height="58" rx="6" fill="#37afaf"/>
+  <text x="546.83" y="222" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">cyan</text>
+  <text x="546.83" y="238" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#37afaf</text>
+  <rect x="616.67" y="144" width="115.67" height="58" rx="6" fill="#3773af"/>
+  <text x="674.50" y="222" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">blue</text>
+  <text x="674.50" y="238" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#3773af</text>
+  <rect x="744.33" y="144" width="115.67" height="58" rx="6" fill="#b259b2"/>
+  <text x="802.17" y="222" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">magenta</text>
+  <text x="802.17" y="238" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#b259b2</text>
+  <text x="28" y="297.0" fill="#888888" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12">Bright</text>
+  <rect x="106.00" y="264" width="115.67" height="58" rx="6" fill="#f2777a"/>
+  <text x="163.83" y="342" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">red</text>
+  <text x="163.83" y="358" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#f2777a</text>
+  <rect x="233.67" y="264" width="115.67" height="58" rx="6" fill="#ffcc66"/>
+  <text x="291.50" y="342" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">yellow</text>
+  <text x="291.50" y="358" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#ffcc66</text>
+  <rect x="361.33" y="264" width="115.67" height="58" rx="6" fill="#99cc99"/>
+  <text x="419.17" y="342" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">green</text>
+  <text x="419.17" y="358" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#99cc99</text>
+  <rect x="489.00" y="264" width="115.67" height="58" rx="6" fill="#66cccc"/>
+  <text x="546.83" y="342" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">cyan</text>
+  <text x="546.83" y="358" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#66cccc</text>
+  <rect x="616.67" y="264" width="115.67" height="58" rx="6" fill="#6699cc"/>
+  <text x="674.50" y="342" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">blue</text>
+  <text x="674.50" y="358" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#6699cc</text>
+  <rect x="744.33" y="264" width="115.67" height="58" rx="6" fill="#cc99cc"/>
+  <text x="802.17" y="342" fill="#cccccc" font-family="Noto Sans, Liberation Sans, sans-serif" font-size="12" text-anchor="middle">magenta</text>
+  <text x="802.17" y="358" fill="#888888" font-family="JetBrains Mono, Noto Sans Mono, monospace" font-size="12" text-anchor="middle">#cc99cc</text>
+</svg>
