@@ -2,6 +2,8 @@
 
 Omarchy theme. [Chris Kempson](http://chriskempson.com)'s Eighties palette on true black (`#000000`).
 
+![Eighties Black desktop](preview.png)
+
 ## Install
 
 ```bash
