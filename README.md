@@ -8,7 +8,11 @@ Omarchy theme. [Chris Kempson](http://chriskempson.com)'s Eighties palette on tr
 
 ```bash
 omarchy theme install https://github.com/j-c-m/omarchy-eighties-black-theme.git
+rm -rf ~/.config/omarchy/themes/eighties-black/.git
+omarchy theme set eighties-black
 ```
+
+Omarchy rebuilds an installed theme that still has a `.git` directory from `colors.toml`. Removing it and setting the theme again applies this repo. Installing the URL again clones a fresh copy and puts `.git` back.
 
 ## Palette
 
